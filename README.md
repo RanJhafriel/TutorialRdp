@@ -1,5 +1,5 @@
 Last update
-(Update December 07, 2025)
+(Update December 07, 2025) (premium only)
 v.1.1.0 
 What's new in this version are:
 
@@ -9,7 +9,7 @@ What's new in this version are:
 * New update for the Mindeebot script (especially for log notifications and CCTV notifications)
 
 
-(Update November 22, 2025)
+(Update November 22, 2025) (free)
 v.1.0.0
 New features
 
