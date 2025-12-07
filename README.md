@@ -1,8 +1,8 @@
 Last update
 (Update December 07, 2025)
 v.1.1.0 
+What's new in this version are:
 
-* What's new in this version are:
 * Bug fixes
 * Made it lighter for CPU performance
 * Can be used with more than 1 of the same program
